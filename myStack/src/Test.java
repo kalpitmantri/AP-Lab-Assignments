@@ -1,4 +1,6 @@
-import java.util.Scanner;
+import java.util.Scanner; 
+
+//Program to implement Stack
 public class Test {
 
 
