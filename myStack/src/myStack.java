@@ -33,6 +33,7 @@ class myStack implements stack{
 		return str[top];
 	}
 	
+	//To return true if stack is empty
 	public boolean Isempty(){
 		if (top==0){
 			return true;
@@ -40,6 +41,7 @@ class myStack implements stack{
 		return false;
 	}
 	
+	//To return true if stack is full
 	public boolean Isfull(){
 	
 		if (top == size){
